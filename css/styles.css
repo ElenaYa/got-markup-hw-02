@@ -40,14 +40,14 @@ a {
 .contacts {
   font-style: normal;
 }
-/* .contact {
+.contact {
   color: #434455;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.32px;
-} */
+}
 .contact:hover,
 .contact:focus {
   color: #4d5ae5;
@@ -73,7 +73,9 @@ a {
   line-height: 1.5;
   letter-spacing: 0.64px;
 }
-
+.paragraph {
+  font-size: 16px;
+}
 .heading {
   color: #2e2f42;
   font-size: 20px;
