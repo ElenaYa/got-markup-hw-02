@@ -24,7 +24,7 @@ a {
   text-transform: uppercase;
 }
 .logo-studio {
-  color: #f4f4fd;
+  color: #2e2f42;
 }
 .nav-container {
   color: #2e2f42;
@@ -106,11 +106,12 @@ a {
 .button:focus {
   background-color: #404bbf;
 }
-
-/* Footer */
 .footer {
   background-color: #2e2f42;
 }
 .paragraph-footer {
+  color: #f4f4fd;
+}
+.logo-footer {
   color: #f4f4fd;
 }
